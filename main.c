@@ -31,4 +31,3 @@ int main() {
     printf("Sequence as a continuous single line:\n%s\n", str);
     return 0;
 }
-//This code was writen with the help of ChatGPT
